@@ -1,17 +1,13 @@
-# BraniacLMS
-
-Современная платформа для обучения. Прогрессивный взгляд на простые вещи.
-
-Учебный проект системы управления обучением, который разработан при прохождений обучения на факультете "Python-разработка", портал GeekBrains, курс `Основы Django`.
+#Blog
+Один из моих проектов. Создание блога с помощью фреймворка Django.
 
 ## Стек
 
-- Python > 3.7
-  - isort, black, autoflake
-  - Django < 3.3
-  - Celery[Redis]
-- VSCode
+- Python > 3.12
+- Django < 4.2
+- PyCharm Professional, VSCode
 - SQLite 3
+- MacOS Sonoma 14.0, Ubuntu 22.04.3 LTS
 
 ## Лицензия
 
